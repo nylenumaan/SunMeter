@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540461856907",
+    "project_id": "sunmeter-421a6",
+    "storage_bucket": "sunmeter-421a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540461856907:android:a3ca6fbea4f2ef3039bc8e",
+        "android_client_info": {
+          "package_name": "com.example.sunmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540461856907-cg175bgjmhlduklucln3m8jaq1skt1g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunmeter",
+            "certificate_hash": "8a70923887e0a54edb03e78414c0838ef3aff46c"
+          }
+        },
+        {
+          "client_id": "540461856907-jcd6pu3tuc3od2fe5lvsvufupcftpd8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxVHoqdcX0PCJaW-hb5rPmNC3_OxcEo-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540461856907-jcd6pu3tuc3od2fe5lvsvufupcftpd8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
